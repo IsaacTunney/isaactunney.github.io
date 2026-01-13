@@ -42,12 +42,13 @@ Typical landing gears of small UAVs limit their capability to land on vehicles m
 
 The video below demonstrates the achieved performances of the landing technology. We rented a dragway race track near Montreal (Canada) for a day to conduct a total of 38 experimental trials, where our drone successfully landed on a pickup truck moving at speeds ranging from 10 to 110 km/h!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OHBPAHqLN08" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OHBPAHqLN08" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tTUVr1Ogag0" frameborder="0" allowfullscreen></iframe>
 
-For more information on how we landed our drone oon high-speed vehicles, we have a paper that's been submitted to the *Journal of Field Robotics* and accepted, so stay tuned!
+For more information on how we landed our drone on high-speed vehicles, [go check out this paper](https://onlinelibrary.wiley.com/doi/10.1002/rob.70069){:target="_blank"} published in *Journal of Field Robotics* (2025 edition) or <a href="/files/paper2_landingOnVehicles.pdf" download target="_blank">download it</a> here.
 
 **Landing on an Trailer in Rough Terrain**  
-With robust control and precise tracking of the ground vehicle, achieving similar landing performance to what I described earlier is likely possible. However, when the vehicle moves over rough and unpredictable terrain, precisely timing the maneuver and syncing the drone’s descent with the vehicle’s motion becomes much more challenging. That's where having a damping landing gear and reverse thrust greatly simplifies the autonomous landing sequence! In the following demo, we successfully landed our drone autonomously on a trailer pulled by a Warthog over rough terrain during our field trials of the *NSERC Canadian Robotics Network* ([NCRN](https://ncrn-rcrc.mcgill.ca/){:target="_blank"}), near Toronto (Canada).  
+With robust control and precise tracking of the ground vehicle, achieving similar landing performance to what I described earlier is likely possible. However, when the vehicle moves over rough and unpredictable terrain, precisely timing the maneuver and syncing the drone’s descent with the vehicle’s motion becomes much more challenging. That's where having a damping landing gear and reverse thrust greatly simplifies the autonomous landing sequence! In the following demo, we successfully landed our drone autonomously on a trailer pulled by a Warthog over rough terrain during our field trials at the *NSERC Canadian Robotics Network* ([NCRN](https://ncrn-rcrc.mcgill.ca/){:target="_blank"}), near Toronto (Canada).  
 Big thanks to [Clearpath Robotics](https://clearpathrobotics.com/){:target="_blank"} for lending us the Warthog!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jA9Zfpel1O8" frameborder="0" allowfullscreen></iframe>  
@@ -58,16 +59,17 @@ As a fun experiment, during the 2024 field trials of the *NSERC Canadian Robotic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E-ns-MxMJvU" frameborder="0" allowfullscreen></iframe>  
 <br> <!-- Adds vertical space -->
 
+<!-- 
 **Landing on a Vehicle on an Off-Road Path in the Forest**  
 Using the same global system (DART UAV and target beacon mounted on pickup truck), we also demonstrated how our landing technology can enable a drone to land on a pickup truck moving on a rough dirt road in a forest near Sherbrooke (Quebec, Canada). On bumpy roads, the pickup undergoes strong vertical accelerations which can result in faster or slower impact speeds. Without the proper landing technology, this can easily result in a mission failure!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_EjhQPquMnw" frameborder="0" allowfullscreen></iframe>  
-<br> <!-- Adds vertical space -->
+<br>
 
 **Landing on a Vehicle in an Urban Setting**  
 Finally, we also demonstrated a landing sequence on a moving vehicle in an urban setting, at the *Interdisciplinary Institute for Technological Innovation* (Université de Sherbrooke). A simplified robust landing strategy could open facilitate the implementation of scenarios such as hybrid ground-air delivery, where a drone handles last-mile drop-offs before returning to the ground vehicle for the ride back, or multi-city missions where a drone hitches a ride to conserve power. power consumption before the mission. While our focus was mainly on the landing gear, it’s always exciting to imagine the broader applications!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hJn3TGY4muU" frameborder="0" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hJn3TGY4muU" frameborder="0" allowfullscreen></iframe>   -->
   
 ## Phase 3: Spike-Equipped Friction Shock Absorbers and Reverse Thrust to Land on Steep Iceberg and Glacier Slopes
 In Phase 3 of my PhD research, I focused on designing specialized spiked feet to enable drones to land on steep ice surfaces, such as glaciers and icebergs. Once again, friction-based shock absorbers proved essential for dampening impact energy and maintaining constant contact between the spikes and the ice, preventing rebounds. Reverse thrust was also critical, as it provided the necessary pressure to keep the spikes engaged during the drone's post-impact sliding and braking. The spikes were designed to be retractable (inspired from cats!) so the drone can land facing either upward or downward. The proposed solution enabled successful landings on 24 icebergs and glaciers in Iceland during a two-week field trial.
