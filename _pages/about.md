@@ -39,7 +39,7 @@ Here is the final product:
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
-</div> 
+</div>
 
 **How does it work?** A 4-DOFs motion system moves the platform to create realistic sensations of accelerations, while a VR headset immerses the pilot (the simulator's user) in a virtual city made with Unreal Engine. The pilot uses ATV-style intuitive tactile commands to control the flying vehicle and uses its own weight to move from side to side, through load-cells placed under the seat and feet. Finally, based on the pilot commands, a semi-realistic dynamic model of the vehicle (in Python) is used to compute flight behavior, which is synchronized with the virtual world and simulator motion, while fans in the front are used to simulate wind and increase realism.  
 **My roles:** Technical lead/team lead for everything software related, responsible for programming the global software architecture of the simulator as well as the flight dynamics module and the motion control system. Also responsible to oversee the virtual world development (Unreal Engine) and its integration in the simulator.  
