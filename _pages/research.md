@@ -45,7 +45,7 @@ The video below demonstrates the achieved performances of the landing technology
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OHBPAHqLN08" frameborder="0" allowfullscreen></iframe> -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tTUVr1Ogag0" frameborder="0" allowfullscreen></iframe>
 
-For more information on how we landed our drone on high-speed vehicles, [go check out this paper](https://onlinelibrary.wiley.com/doi/10.1002/rob.70069){:target="_blank"} published in *Journal of Field Robotics* (2025 edition) or <a href="/files/paper2_landingOnVehicles.pdf" download target="_blank">download it</a> here.
+<!-- For more information on how we landed our drone on high-speed vehicles, [go check out this paper](https://onlinelibrary.wiley.com/doi/10.1002/rob.70069){:target="_blank"} published in *Journal of Field Robotics* (2025 edition) or <a href="/files/paper2_landingOnVehicles.pdf" download target="_blank">download it</a> here. -->
 
 **Landing on an Trailer in Rough Terrain**  
 With robust control and precise tracking of the ground vehicle, achieving similar landing performance to what I described earlier is likely possible. However, when the vehicle moves over rough and unpredictable terrain, precisely timing the maneuver and syncing the drone’s descent with the vehicle’s motion becomes much more challenging. That's where having a damping landing gear and reverse thrust greatly simplifies the autonomous landing sequence! In the following demo, we successfully landed our drone autonomously on a trailer pulled by a Warthog over rough terrain during our field trials at the *NSERC Canadian Robotics Network* ([NCRN](https://ncrn-rcrc.mcgill.ca/){:target="_blank"}), near Toronto (Canada).  
@@ -57,7 +57,7 @@ Big thanks to [Clearpath Robotics](https://clearpathrobotics.com/){:target="_bla
 **Landing on a High-Speed Canoe**  
 As a fun experiment, during the 2024 field trials of the *NSERC Canadian Robotics Network*, we decided to test our technology in riskier conditions... We mounted a platform on a canoe and autonomously landed our drone on it while it was being towed at 30~km/h by an electric motor! No crashes!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E-ns-MxMJvU" frameborder="0" allowfullscreen></iframe>  
-<br> <!-- Adds vertical space -->
+<br>
 
 <!-- 
 **Landing on a Vehicle on an Off-Road Path in the Forest**  
