@@ -23,7 +23,7 @@ author_profile: true
 </p> -->
 
 ## Interests & Hobbies
-When I am not working on my research or robots, I spend a lot of time either at the rock climbing gym, playing tennis or running!
+When I am not working on my research or robots, I spend a lot of time either at the rock-climbing gym, playing tennis or running!
 I have been rock climbing for about 10 years now, focussing mostly on indoor bouldering, although I've been lucky enough to climb on these incredibly nice cliffs in the region of Krabi, Thailand!
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-top: 15px;">
