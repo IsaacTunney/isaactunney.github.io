@@ -8,7 +8,7 @@ date: 2025-09-24
 venue: 'Journal of Field Robotics'
 status: 'Published'
 # slidesurl: ''
-# paperurl: 'https://IsaacTunney.github.io/files/paper2_landingOnVehicles.pdf'
+paperurl: 'https://IsaacTunney.github.io/files/paper2_landingOnVehicles.pdf'
 # bibtexurl: ''
 citation: 'Tunney, I., Bass, J., & Desbiens, A. L. Friction Shock Absorbers and Reverse Thrust for Fast Multirotor Landing on High-Speed Vehicles. Journal of Field Robotics. https://doi.org/10.1002/rob.70069'
 
