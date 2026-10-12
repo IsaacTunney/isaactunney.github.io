@@ -133,6 +133,7 @@ for pubsource in publist:
             if "url" in b.keys():
                 if len(str(b["url"])) > 5:
                     md += "\npaperurl: '" + b["url"] + "'"
+                    md += "\nviewurl: '" + b["url"] + "'"
                     url = True
 
             md += "\ncitation: '" + html_escape(citation) + "'"

@@ -41,7 +41,7 @@ I have been rock climbing for about 10 years now, focussing mostly on indoor bou
 Apart from sports, I enjoy reading, playing chess and other board games, and learning new stuff!
 
 ## Latte Art (Just for Fun!)
-As an engineering, I (obviously) have a deep passion (maybe obsession?) for coffee. My 3 coffees a day have given me lots of opportunities to practice and have fun with latte art, but its still a work in progress. After learning to make the tulip (top left) and the rosetta (top right), I have recently been working on the Swan (bottom row)!
+As an engineering, I (obviously) have a deep passion (maybe obsession?) for coffee. My three coffees a day have given me lots of opportunities to practice and have fun with latte art, although its still a work in progress. After learning to make the tulip (top left) and the rosetta (top right), I have recently been working on learning the Swan (bottom row)!
 
 <!-- <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 15px;"
   <img src="../images/cafe1.jpg" alt="Latte Art 1" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border: 1px solid #ccc; border-radius: 8px;">

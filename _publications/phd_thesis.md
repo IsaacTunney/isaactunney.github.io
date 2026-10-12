@@ -1,0 +1,18 @@
+---
+title: "Friction Shock Absorbers and Reverse Thrust for Fast UAV Landings in Extreme Outdoor Conditions"
+collection: publications
+category: thesis
+# permalink: /publication/2025-06-21-paper-landingOnFastVehicles
+excerpt: 'This PhD thesis explores the use of lightweight friction-based disk brakes, reverse thrust and specialized spiny feet to enable multirotors to land in extreme outdoor conditions, including on steep rooftops, on high-speed ground vehicles, on rough and bumpy terrain and on icebergs & glaciers in strong winds.'
+date: 2026-05-13
+venue: 'Savoirs UdeS'
+status: 'Published'
+# slidesurl: ''
+# paperurl: 'https://doi.org/10.71892/11143/1623'
+viewurl: 'https://doi.org/10.71892/11143/1623'
+# bibtexurl: ''
+citation: 'Tunney, Isaac. "Suspension amortissante et poussée réversible pour l''atterrissage rapide de multirotors en conditions extérieures extrêmes.", Université de Sherbrooke, 2026'
+
+---
+
+Abstract: Uninhabited aerial vehicles are increasingly used in a wide range of applications in our society, including as surveillance tools, as versatile deployable sensors for scientific research in hard-to-reach locations, and as efficient delivery systems for packages, food or medication. However, their use remains limited in difficult outdoor conditions due to their small landing envelope. Standard off-the-shelf multirotors are often designed for low-speed landings (0.5 m/s) on fixed, flat, and near-horizontal surfaces, mainly because of their rigid landing gear that acts as a spring and induces rebounds and instabilities at impact. This thesis presents a landing strategy that combines a friction-based damping landing gear, rapid thrust reversal at impact and novel, specialized feet adapted to the landing surface, in order to drastically expand the landing envelope of multirotors and ease their operation in harsh outdoor conditions. More specifically, this thesis aims to answer the following question: How can a damping suspension and reverse thrust be used to ease the landing task of multirotors in difficult outdoor conditions? Three sets of impact conditions are studied: rapid landings on inclined surfaces (e.g., rooftops), rapid landings on fastmoving vehicles (e.g., trucks, trains), and rapid landings on inclined ice surfaces (e.g., icebergs, glaciers). The results obtained in this thesis show that combining a damping suspension with rapid thrust reversal allows drones to land on slopes of up to 60° and at impact speeds up to 2.75 m/s, increasing the landing envelope on inclined surfaces by a factor of 8 compared to a standard DJI F450 drone equipped with its rigid landing gear. A similar strategy, combined with a rapid levelling maneuver, then allows a drone to land on a vehicle moving at speeds of up to 110 km/h and at impact speeds of up to 3 m/s. For this set of conditions, the landing envelope is increased by a factor of 60, while the initial flight envelope prior to the levelling maneuver is increased by a factor of 38, making landings on moving vehicles substantially easier and more robust to disturbances. Lastly, a novel specialized foot equipped with retractable spines that generate anisotropic shear forces in the ice during landing is integrated to the damping landing gear and reverse thrust strategy, enabling fast landings at impact speeds of up to 3 m/s on ice slopes of up to 60°. Rigorous field trials were conducted in real-world conditions for each set of landing scenarios, demonstrating a success rate of 100%. The trials consisted of 25 landings on rooftops inclined up to 45°, 38 landings on fast-moving vehicles at up to 110 km/h, and 24 landings on real icebergs and glaciers of various shapes and sizes, on slopes of up to 58° and in winds reaching up to 30 km/h.

@@ -83,7 +83,6 @@ My dog Charlie, as any good Covid-19 dog, has some issues with the idea of stayi
 
 This project has just started and yes, the robot is a total mess, but the goal here was just to validate the electronics, motors and encoders before soldering a cleaner protoboard. Next up is the design of the treat launcher!
 
-
 Here are some pictures of the robot (I know its messy!):  
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 20px 0;">

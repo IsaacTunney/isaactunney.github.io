@@ -9,6 +9,7 @@ venue: 'Robotics and Automation Letters'
 status: 'Published'
 # slidesurl: 'http://IsaacTunney.github.io/files/slides1.pdf'
 paperurl: 'https://IsaacTunney.github.io/files/paper1_landingOnRooftops.pdf'
+viewurl: 'https://doi.org/10.1109/LRA.2022.3176102'
 # bibtexurl: 'http://IsaacTunney.github.io/files/bibtex1_landingOnRooftops.bib'
 citation: 'J. Bass, I. Tunney and A. L. Desbiens, "Adaptative Friction Shock Absorbers and Reverse Thrust for Fast Multirotor Landing on Inclined Surfaces," in IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 6701-6708, July 2022, doi: 10.1109/LRA.2022.3176102'
 

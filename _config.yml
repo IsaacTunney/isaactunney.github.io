@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Isaac's Porfolio of Projects"
+title                    : "Isaac's Portfolio of Projects"
 title_separator          : "-"
 name                     : &name "Isaac Tunney"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   avatar           : "bioPhotoAvatar.png"
   name             : "Isaac Tunney"
   pronouns         : # example: "she/her"
-  bio              : "PhD student in Mechanical Engineering and passionate roboticist!"
-  location         : "Gatineau (QC), Canada"
+  bio              : "Postdoctoral Researcher in Mechanical Engineering and passionate roboticist!"
+  location         : "Ottawa, Canada"
   employer         : "Université de Sherbrooke"
   uri              : # URL
   email            : "isaac.tunney@usherbrooke.ca" 
@@ -88,6 +88,8 @@ publication_category:
     title: 'Conference Talks'
   posters:
     title: 'Poster Presentations'
+  thesis:
+    title: 'PhD Thesis'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

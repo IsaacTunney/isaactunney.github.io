@@ -85,6 +85,11 @@ for row, item in publications.iterrows():
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
+        # prefer a dedicated site URL for viewing if available, otherwise use the paper URL
+        if 'site_url' in item and len(str(item.site_url)) > 5:
+            md += "\nviewurl: '" + item.site_url + "'"
+        else:
+            md += "\nviewurl: '" + item.paper_url + "'"
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     

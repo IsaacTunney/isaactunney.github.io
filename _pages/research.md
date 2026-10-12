@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PhD Research"
+# title: "PhD Research"
 permalink: /research/
 author_profile: true
 ---
@@ -72,18 +72,23 @@ Finally, we also demonstrated a landing sequence on a moving vehicle in an urban
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hJn3TGY4muU" frameborder="0" allowfullscreen></iframe>   -->
   
 ## Phase 3: Spike-Equipped Friction Shock Absorbers and Reverse Thrust to Land on Steep Iceberg and Glacier Slopes
-In Phase 3 of my PhD research, I focused on designing specialized spiked feet to enable drones to land on steep ice surfaces, such as glaciers and icebergs. Once again, friction-based shock absorbers proved essential for dampening impact energy and maintaining constant contact between the spikes and the ice, preventing rebounds. Reverse thrust was also critical, as it provided the necessary pressure to keep the spikes engaged during the drone's post-impact sliding and braking. The spikes were designed to be retractable (inspired from cats!) so the drone can land facing either upward or downward. The proposed solution enabled successful landings on 24 icebergs and glaciers in Iceland during a two-week field trial.
+In Phase 3 of my PhD research, I focused on designing specialized spiny feet to enable drones to land on steep ice surfaces, such as glaciers and icebergs. Once again, friction-based shock absorbers proved essential for dampening impact energy and maintaining constant contact between the spikes and the ice, preventing rebounds. Reverse thrust was also critical, as it provided the necessary pressure to keep the spines engaged during the drone's post-impact sliding and braking. The spines were designed to be retractable (inspired from cats!) so the drone can land facing any orientation on the slope. The proposed solution enabled successful landings on 24 icebergs and glaciers in Iceland during a two-week field trial.
 
-The official demo video is coming soon!
+The video below ...
 
-<div style="display: flex; gap: 10px; margin-bottom: 10px;">
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OHBPAHqLN08" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://youtu.be/embed/TgfoCh_gqfQ" frameborder="0" allowfullscreen></iframe>
+
+For more information on how we landed our drone on high-speed vehicles, [go check out this paper](https://ieeexplore.ieee.org/document/11554347){:target="_blank"} published in *IEEE Transactions on Field Robotics* (2026 edition) or <a href="/files/paper3_landingOnIcebergs.pdf" download target="_blank">download it</a> here.
+
+<!-- <div style="display: flex; gap: 10px; margin-bottom: 10px;">
   <img src="../images/droneOnIceberg3.png" alt="Drone landed on iceberg" style="width: 48%; border: 0.5px solid black;">
   <img src="../images/droneOnGlacier.jpg" alt="Drone landed on glacier" style="width: 48%; border: 0.5px solid black;">
 </div>
 
 <div style="display: flex; justify-content: center;">
   <img src="../images/droneOnIceberg2.jpg" alt="Drone coasted in Iceland" style="width: 48%; border: 0.5px solid black;">
-</div>
+</div> -->
 
 <!-- The ability to land and stay on icebergs for long periods of time could enable the use of drones as remote sensors to track and monitor large icebergs coming towards offshore oil rigs in Eastern Canada's coastal regions, allowing companies to react proactively to avoid collisions and oil leaks in the ocean. These UAV-based missions have been explored by companies like C-Core in the past to replace current expensive solutions using manned aircraft to manually track incoming icebergs, but placing beacons or drones on icebergs has proven very challenging, due to the strong winds, slippery surfaces and icebergs' inherit risk of rolling. Placing a drone on a straight surface instead of an inclined one can also be dangerous because water puddles will form in these lower areas during warmer days. 
 UAVs capable of landing on steep ice and snow could also be beneficial to explorers or rescue teams as a deployable tool to detect avalanches or weak ice structures in higher risk areas, and is also very relevant to space exploration, as extra-terrestrial robots often need to deal with icy/snowy terrain.

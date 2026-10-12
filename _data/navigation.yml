@@ -12,7 +12,7 @@ main:
   # - title: "Projects Portfolio"
   #   url: /portfolio/
 
-  - title: "Current Research"
+  - title: "PhD Research"
     url: /research/
 
   - title: "Publications & Talks"
@@ -21,7 +21,7 @@ main:
   - title: "About Me"
     url: /aboutMe/
 
-  - title: "Download Resume"
+  - title: "Resume"
     url: "/files/resume.pdf"
     download: true
 

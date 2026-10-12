@@ -2,13 +2,14 @@
 title: "Friction Shock Absorbers and Reverse Thrust for Fast Multirotor Landing on High‐Speed Vehicles"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-21-paper-landingOnFastVehicles
-excerpt: ''
+permalink: /publication/2025-09-24-paper-landingOnFastVehicles
+excerpt: 'This paper is about the use of friction shock absorbers combined with rapid thrust reversal to enable multirotors to land rapidly on high-speed ground vehicles at up to 120 km/h.'
 date: 2025-09-24
 venue: 'Journal of Field Robotics'
 status: 'Published'
 # slidesurl: ''
 paperurl: 'https://IsaacTunney.github.io/files/paper2_landingOnVehicles.pdf'
+viewurl: 'https://doi.org/10.1002/rob.70069'
 # bibtexurl: ''
 citation: 'Tunney, I., Bass, J., & Desbiens, A. L. Friction Shock Absorbers and Reverse Thrust for Fast Multirotor Landing on High-Speed Vehicles. Journal of Field Robotics. https://doi.org/10.1002/rob.70069'
 
