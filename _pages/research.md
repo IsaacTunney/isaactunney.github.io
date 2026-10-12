@@ -79,7 +79,7 @@ The video below ...
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OHBPAHqLN08" frameborder="0" allowfullscreen></iframe> -->
 <iframe width="560" height="315" src="https://youtu.be/embed/TgfoCh_gqfQ" frameborder="0" allowfullscreen></iframe>
 
-For more information on how we landed our drone on high-speed vehicles, [go check out this paper](https://ieeexplore.ieee.org/document/11554347){:target="_blank"} published in *IEEE Transactions on Field Robotics* (2026 edition) or <a href="/files/paper3_landingOnIcebergs.pdf" download target="_blank">download it</a> here.
+For more information on how we landed our drone on steep icebergs and glaciers, [go check out this paper](https://ieeexplore.ieee.org/document/11554347){:target="_blank"} published in *IEEE Transactions on Field Robotics* (2026 edition) or <a href="/files/paper3_landingOnIcebergs.pdf" download target="_blank">download it</a> here.
 
 <!-- <div style="display: flex; gap: 10px; margin-bottom: 10px;">
   <img src="../images/droneOnIceberg3.png" alt="Drone landed on iceberg" style="width: 48%; border: 0.5px solid black;">

@@ -16,10 +16,10 @@ redirect_from:
   }
 </style>
 
-Hello! I'm Isaac, a PhD Student in Mechanical Engineering and a passionate roboticist. Welcome to my personal website! This space is a hub for me to gather some of my best engineering projects and to present my [ongoing research](/research/) with the University of Sherbrooke (Canada).
+Hello! I'm Isaac, a postdoctoral researcher in Mechanical Engineering and a passionate roboticist. Welcome to my personal website! This space is a hub for me to gather some of my best engineering projects and to present my [ongoing research](/research/) with the University of Sherbrooke (Canada).
 To introduce myself in a few words, I like to invent things, especially if these things do not exist or do not operate as they should! I enjoy solving problems through creative thinking and fast prototyping, and one of my favorite parts of any project is the inital brainstorming/creative phase where all ideas are accepted and explored, before converging towards a solution. 
 
-Although my research in the last years has mostly been focussed on aerial robotics, I've had the chance to play around with a lot of other robotic platforms through my internships and personal projects. These include acrobatic robots ([Disney Research](https://la.disneyresearch.com/)), [flight simulator with virtual reality](#aerostrabe) (senior undergrade project), [robotic grippers](#gripper)  (PhD side project), [4-wheel robots](#csquare) (personal) and C++/Python projects such as [drone simulations](#dronesim_ROS) (ROS + Gazebo), [motion planning algorithms](#rrt) (Matlab) and financial websrapers (python).
+Although my research in the last years has mostly been focussed on aerial robotics, I've had the chance to play around with a lot of other robotic platforms through my internships and personal projects. These include acrobatic robots ([Disney Research](https://la.disneyresearch.com/)), [flight simulator with virtual reality](#aerostrabe) (senior undergrade project), [robotic grippers](#gripper)  (PhD side project), [4-wheel robots](#csquare) (personal) and C++/Python projects such as [drone simulations](#dronesim_ROS) (ROS + Gazebo), [motion planning algorithms](#rrt) (Matlab) and financial webscrapers (python).
 
 Below is a quick presentation of some of my past projects, starting with the coolest.
 
