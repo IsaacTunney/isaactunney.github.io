@@ -77,7 +77,7 @@ In Phase 3 of my PhD research, I focused on designing specialized spiny feet to 
 The video below ...
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OHBPAHqLN08" frameborder="0" allowfullscreen></iframe> -->
-<iframe width="560" height="315" src="https://youtu.be/embed/TgfoCh_gqfQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube/embed/TgfoCh_gqfQ" frameborder="0" allowfullscreen></iframe>
 
 For more information on how we landed our drone on steep icebergs and glaciers, [go check out this paper](https://ieeexplore.ieee.org/document/11554347){:target="_blank"} published in *IEEE Transactions on Field Robotics* (2026 edition) or <a href="/files/paper3_landingOnIcebergs.pdf" download target="_blank">download it</a> here.
 
