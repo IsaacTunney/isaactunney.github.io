@@ -72,12 +72,13 @@ Finally, we also demonstrated a landing sequence on a moving vehicle in an urban
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hJn3TGY4muU" frameborder="0" allowfullscreen></iframe>   -->
   
 ## Phase 3: Spike-Equipped Friction Shock Absorbers and Reverse Thrust to Land on Steep Iceberg and Glacier Slopes
-In Phase 3 of my PhD research, I focused on designing specialized spiny feet to enable drones to land on steep ice surfaces, such as glaciers and icebergs. Once again, friction-based shock absorbers proved essential for dampening impact energy and maintaining constant contact between the spikes and the ice, preventing rebounds. Reverse thrust was also critical, as it provided the necessary pressure to keep the spines engaged during the drone's post-impact sliding and braking. The spines were designed to be retractable (inspired from cats!) so the drone can land facing any orientation on the slope. The proposed solution enabled successful landings on 24 icebergs and glaciers in Iceland during a two-week field trial.
+In Phase 3 of my PhD research, I focused on designing specialized spiny feet to enable my custom multirotor, the Ice Dart, to land on steep ice surfaces such as glaciers and icebergs. Once again, friction-based shock absorbers proved essential for dampening impact energy and maintaining constant contact between the spines and the ice, preventing rebounds. Reverse thrust was also critical, as it provided the necessary pressure to keep the spines engaged during the drone's post-impact sliding and braking. The spines were designed to be retractable (inspired from cats!) so the drone can land facing any orientation on the slope. The proposed solution enabled successful landings on 24 icebergs and glaciers in Iceland, on slopes of up to 60° and in winds of 30+ km/h, over the course of three days.
 
-The video below ...
+The video below shows the Ice Dart drone in action. 
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OHBPAHqLN08" frameborder="0" allowfullscreen></iframe> -->
-<iframe width="560" height="315" src="https://youtube/embed/TgfoCh_gqfQ" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TgfoCh_gqfQ" frameborder="0" allowfullscreen></iframe>
 
 For more information on how we landed our drone on steep icebergs and glaciers, [go check out this paper](https://ieeexplore.ieee.org/document/11554347){:target="_blank"} published in *IEEE Transactions on Field Robotics* (2026 edition) or <a href="/files/paper3_landingOnIcebergs.pdf" download target="_blank">download it</a> here.
 
